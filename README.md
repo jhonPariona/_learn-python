@@ -1,2 +1,1 @@
-# _learn-python
-🏆 learning Python
+# 🏆 learning Python
