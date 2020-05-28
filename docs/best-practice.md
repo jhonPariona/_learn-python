@@ -1,5 +1,7 @@
 # Best Practice
 
+[Clean Code](https://github.com/jhonPariona/clean-code/blob/master/README.md#clean-code)
+
 ## Editor
 
 **usar 4 espacios de identación**
