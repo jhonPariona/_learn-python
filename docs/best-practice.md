@@ -61,7 +61,7 @@ Texto adicional o info ilustrada incrustada en el código
 # comment in-line
 ```
 
-**Docstrings** Se realiza a nivel de una función, es considerado una buena práctica. Si la función es simple basta con indicar únicamente una descripción y omitir los Args y Returns.
+**[Docstrings](https://www.python.org/dev/peps/pep-0257/)** Se realiza a nivel de una función, es considerado una buena práctica. Si la función es simple basta con indicar únicamente una descripción y omitir los Args y Returns.
 
 ```python
 def population_density(population, land_area):
