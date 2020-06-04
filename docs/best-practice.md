@@ -86,4 +86,45 @@ EL README debe contener:
 - Lista de dependencias
 - Instrucciones detalladas sobre como usarlo
 
+## Pruebas
 
+### Pruebas Unitarias
+
+Se realizan a una unidad de código(funciones)
+
+⚙️ **Tools**
+
+- **[pytest](https://docs.pytest.org/en/latest/getting-started.html)**
+  - Los archivos deben nombrarse `tes_<nameTest>.py`
+  - Las funciones de los test tambien deben de empezar con `tes_`
+  - [configuracion](https://docs.pytest.org/en/latest/customize.html)
+  
+### TDD(Test-driven-development)
+
+Escribir los test antes de escribir código.
+
+- Los tests deben representar todos los posibles escenarios que se nos ocurran
+
+### Logging
+
+Registrar mensajes descriptivos de los eventos que ocurrieron en nuestra aplicación
+
+- Ser claros
+- Ser concisos
+- Usar de manera adecuada las mayúsculas
+- Proveer únicamente información útil donde, cuando, cómo, ...
+- Elegir de manera adecuada el nivel para el log
+  - Debug: todo lo que sucede en la aplicación
+  - Error: Registra los errores que se producen
+  - Info: específico del sistema del usuario
+  
+### Code Reviews
+
+Ayuda a mejorar el código para su puesta en producción, se realiza por otro desarrollador.
+
+- Revizar si se están cumpliendo las buenas prácticas
+- Realizar comentarios de sugerencias y no mandatos.
+- Evitar usar en los comentarios "yo" o "tu" en vez de eso usar nosotros
+- proporcionar código de ejemplo en los comentarios
+- Usar un linter y una guia de estilo establecido por e grupo
+  - pylint
