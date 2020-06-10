@@ -14,3 +14,7 @@ lista_2 = [[1, 2, 3], [4, 5, 7]]
 ## [Best practices](https://github.com/jhonPariona/_learn-python/blob/master/docs/best-practice.md)
 
 El estándar que se usa en python es [PEP8](https://www.python.org/dev/peps/pep-0008/?#code-lay-out)
+
+## OPP
+
+Programación orientada a objtos
