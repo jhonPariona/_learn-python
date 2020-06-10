@@ -15,6 +15,6 @@ lista_2 = [[1, 2, 3], [4, 5, 7]]
 
 El estándar que se usa en python es [PEP8](https://www.python.org/dev/peps/pep-0008/?#code-lay-out)
 
-## [OPP]()
+## [OPP](https://github.com/jhonPariona/_learn-python/blob/master/docs/OPP.md#opp)
 
 Programación orientada a objtos
