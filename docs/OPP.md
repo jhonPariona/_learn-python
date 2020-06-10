@@ -10,7 +10,7 @@ Plantilla que contiene los atributos y métodos delos obetos.
 
 Es un dicionario que contiene las propiedades y valores de las propiedades de una clase, se pasa como primer argumento. Self es una convencion de nombre pero se pude asar otro nombre tambien pero eso confundiría a otros programadores.
 
-## ObjeCts
+## Objects
 
 Instance of class (instancia de una clase)
 
@@ -22,3 +22,9 @@ Los objetos s definen por:
 
 [Class objects and attributes](https://youtu.be/yvVMJt09HuA)
 
+
+### Diferencia Method and function
+
+**Method** inside of a class(Dentro de una clase)
+
+**Function** outside of a class(Fuera de una clase)
